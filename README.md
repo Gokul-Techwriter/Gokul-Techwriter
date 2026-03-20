@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Gokul S Anand 👋
 
-<!--
-**Gokul-Techwriter/Gokul-Techwriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Writer | BA English | Fresher
 
-Here are some ideas to get you started:
+I create clear, user-focused documentation that helps people understand and use software effectively.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+- Technical Writing
+- Markdown
+- User Guides & Installation Guides
+- Troubleshooting Guides & FAQs
+- Information Architecture
+
+---
+
+## 📁 Portfolio
+
+**[Technical Writing Portfolio](https://github.com/Gokul-Techwriter/technical-writing-portfolio)**
+
+8 documents across user guides, installation guides, troubleshooting guides, and FAQs — covering VS Code, Postman, WhatsApp, Zoom, Gmail, and Google Chrome.
+
+---
+
+## 📫 Connect
+
+- **Location:** Kerala, India
+- **Email:** connectgokultwr@gmail.com
