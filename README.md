@@ -20,7 +20,7 @@ I create clear, user-focused documentation that helps people understand and use 
 
 **[Technical Writing Portfolio](https://github.com/Gokul-Techwriter/technical-writing-portfolio)**
 
-8 documents across user guides, installation guides, troubleshooting guides, and FAQs — covering VS Code, Postman, WhatsApp, Zoom, Gmail, and Google Chrome.
+8 documents (MD + PDF) across user guides, installation guides, troubleshooting guides, and FAQs — covering VS Code, Postman, WhatsApp, Zoom, Gmail, and Google Chrome.
 
 ---
 
