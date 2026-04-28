@@ -16,22 +16,41 @@ I create clear, user-focused documentation for both technical and non-technical 
 
 ## 📁 Portfolio
 
-**[Technical Writing Portfolio](https://github.com/Gokul-Techwriter/technical-writing-portfolio)** — 6 folders, 140+ commits
+**[Technical Writing Portfolio](https://github.com/Gokul-Techwriter/technical-writing-portfolio)**
 
-**API Documentation**
-Notion API reference covering 8 core endpoints — authentication, Databases, Pages, and Blocks — with request/response schemas, parameters, and error codes. Built with OpenAPI/Swagger and validated via Postman.
+**1. API Documentation**
 
-**Installation Guides**
-Step-by-step installation guides for Postman and VS Code, available in Markdown and PDF.
+|**NAME**|**FORMAT 1**|**FORMAT 2** |**DESCRIPTION**|
+|--------|------------|-------|---------------|
+| **Notion** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/api-documentation/notion-api-documentation.md)** | **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/api-documentation/notion-api-documentation.md)** | Notion API reference covering 8 core endpoints — authentication, Databases, Pages, and Blocks — with request/response schemas, parameters, and error codes. Built with OpenAPI/Swagger and validated via Postman. |
 
-**User Guides**
-Task-based user guides for Postman and Visual Studio Code, structured for clarity and ease of use.
+**2. Installation Guides**
 
-**Troubleshooting Guides**
-Troubleshooting documentation for WhatsApp Desktop and Zoom Desktop.
+|**NAME**|**FORMAT 1**|**FORMAT 2**|**DESCRIPTION**|
+|--------|------------|-------|---------------|
+| **Postman** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/installation-guide/postman-installation-guide.md)** |  **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/installation-guide/postman-installation-guide.pdf)** | Step-by-step installation guide for Postman |
+| **VS Code** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/installation-guide/vs-code-installation-guide.md)** |  **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/installation-guide/vs-code-installation-guide.pdf)** | Step-by-step installation guide for VS Code |
 
-**FAQs**
-FAQ documents for Gmail (web) and Google Chrome, written for non-technical end users.
+**3. User Guides**
+
+|**NAME**|**FORMAT 1**|**FORMAT 2**|**DESCRIPTION**|
+|--------|------------|-------|---------------|
+| **Postman** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/user-guide/postman-user-guide.md)** |  **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/user-guide/postman-user-guide.pdf)** | Task-based user guide of Postman, structured with clarity and ease for use. |
+| **VS Code** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/installation-guide/vs-code-user-guide.md)** |  **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/installation-guide/vs-code-installation-guide.pdf)** | Task-based user guide of Visual Studio Code, structured with clarity and ease for use. |
+
+**4. Troubleshooting Guides**
+
+|**NAME**|**FORMAT 1**|**FORMAT 2**|**DESCRIPTION**|
+|--------|------------|-------|---------------|
+| **WhatsApp Desktop** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/troubleshooting-guide/whatsapp-desktop-troubleshooting-guide.md)** | **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/troubleshooting-guide/whatsapp-desktop-troubleshooting-guide.pdf)** | Troubleshooting documentation for WhatsApp Desktop |
+| **Zoom Desktop** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/troubleshooting-guide/zoom-desktop-troubleshooting-guide.md)** |  **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/troubleshooting-guide/zoom-desktop-troubleshooting-guide.pdf)** | Troubleshooting documentation for Zoom Desktop. |
+
+**5. FAQs**
+
+|**NAME**|**FORMAT 1**|**FORMAT 2**|**DESCRIPTION**|
+|--------|------------|-------|---------------|
+| **Gmail (web)** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/faq-guide/gmail-faq-guide.md)** | **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/faq-guide/gmail-faq-guide.pdf)** | FAQ document of Gmail (web) written for non-technical end users. |
+| **Google Chrome** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/faq-guide/google-chrome-guide.md)** |  **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/faq-guide/google-chrome-guide.pdf)** | FAQ document of Google Chrome, written for non-technical end users.
 
 ---
 
