@@ -22,7 +22,7 @@ I create clear, user-focused documentation for both technical and non-technical 
 
 |**NAME**|**FORMAT 1**|**FORMAT 2** |**DESCRIPTION**|
 |--------|------------|-------|---------------|
-| **Postman** |  |     | Postman API reference covering 15 core endpoints — with request/response schemas, parameters, and error codes. Built with OpenAPI/Swagger and validated via Postman. |
+| **Postman** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/blob/main/api-documentation/postman-api-documentation.md)** | **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/blob/main/api-documentation/postman-api-documentation.pdf)** | Postman API reference covering 15 core endpoints — with request/response schemas, parameters, and error codes. Built with OpenAPI/Swagger and validated via Postman. |
 | **Notion** | **[Markdown](https://github.com/Gokul-Techwriter/technical-writing-portfolio/blob/main/api-documentation/notion-api-documentation.md)** | **[PDF](https://github.com/Gokul-Techwriter/technical-writing-portfolio/blob/main/api-documentation/notion-api-documentation.pdf)** | Notion API reference covering 8 core endpoints — authentication, Databases, Pages, and Blocks — with request/response schemas, parameters, and error codes. Built with OpenAPI/Swagger and validated via Postman. |
 
 **2. Installation Guides**
